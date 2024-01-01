@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	clear: both;
+}
+
+div.heading {
+	float: right;
+	background: red;
+	text-align: center;
+	width: 100px;
+	margin-bottom: 20px;
+
+}
+
+div {
+	margin: 0px;
+	padding: 0px;
+	background: gray;
+}
+
+section {
+	background: lightgray;
+	border-color: black;
+	width: 33%;
+	border: 1px solid;
+	float: left;
+}
